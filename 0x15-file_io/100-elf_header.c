@@ -9,7 +9,7 @@
 /**
  * print_addr - prints address
  * @ptr: magic.
- * Return: no return.
+ * Return: no return .
  */
 void print_addr(char *ptr)
 {
